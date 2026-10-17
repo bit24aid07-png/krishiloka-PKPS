@@ -1,0 +1,6 @@
+{
+  "name": "KrishiLoka Studio AI",
+  "description": "Smart agriculture platform with AI crop disease diagnosis, live APMC mandi prices, and weather advisories. Created by Akshay Ramappa Nerli, AMBIT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
